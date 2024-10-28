@@ -3,6 +3,8 @@
 This tool generates vanity ed25519 (hidden service version 3[^1][^2],
 formely known as proposal 224) onion addresses.
 
+[![Packaging status](https://repology.org/badge/vertical-allrepos/mkp224o.svg)](https://repology.org/project/mkp224o/versions)
+
 ### Requirements for building
 
 * C99 compatible compiler (gcc and clang should work)
